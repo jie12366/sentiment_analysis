@@ -12,9 +12,7 @@
 
 ```
 |——data
-|    |——sampling.py 数据集拆分脚本
-|    |——small_train.txt 拆分后的小数据集
-|    |——weibo_train.txt 原数据集
+|    |——train.json 原数据集
 |    |——stopWords.txt 中文停用词
 |——model
 |    |——my_model.h5 keras训练后保存的模型
@@ -27,3 +25,8 @@
 ```
 ## 情绪识别api
 https://github.com/jie12366/sentiment_analysis_api
+
+## 相关博客
+[中文情绪识别api](http://jie12366.xyz:8081/#/users/11/articles/46)  
+
+[基于LSTM的中文多分类情感分析](http://jie12366.xyz:8081/#/users/11/articles/35)
