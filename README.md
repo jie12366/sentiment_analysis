@@ -1,13 +1,11 @@
-# 基于LSTM的中文多分类情感分析
+# 基于LSTM的中文情绪识别
 
-> 基于keras深度学习库，搭建LSTM网络，来对新浪微博的内容进行情感分析，分成四类情感。
+> 基于keras深度学习库，搭建LSTM网络，来对数据集进行情绪识别，分成六类情绪。
 
 ## 数据集
- - 下载地址： [百度网盘](https://pan.baidu.com/s/16c93E5x373nsGozyWevITg#list/path=%2F)
- - 数据概览： 36 万多条，带情感标注 新浪微博，包含 4 种情感，其中喜悦约 20 万条，愤怒、厌恶、低落各约 5 万条
- - 数据来源： 新浪微博
- - 原数据集： [微博情感分析数据集](https://download.csdn.net/download/turkan/9181661)，网上搜集，具体作者、来源不详
- - 加工处理： 写了个脚本sampling，可以将数据集拆分更小一点，加快实验。
+ - 下载地址： https://biendata.com/ccf_tcci2018/datasets/emotion/
+ - 数据概览： 4万多条句子,分为其他（Null), 喜好(Like)，悲伤(Sad)，厌恶(Disgust)，愤怒(Anger)，高兴（Happiness）六类
+ - 数据提供方： 清华大学计算机系黄民烈副教授
 
 ## 项目结构
 
@@ -26,3 +24,5 @@
 |——requirements.txt 项目所需依赖
 
 ```
+## 情绪识别api
+https://github.com/jie12366/sentiment_analysis_api
