@@ -5,6 +5,7 @@
 ## 数据集
  - 下载地址： https://biendata.com/ccf_tcci2018/datasets/emotion/
  - 数据概览： 4万多条句子,分为其他（Null), 喜好(Like)，悲伤(Sad)，厌恶(Disgust)，愤怒(Anger)，高兴（Happiness）六类
+ - 数据来源：数据分别来源于NLPCC Emotion Classification Challenge（训练数据中17113条，测试数据中2242条）和微博数据筛选后人工标注(训练数据中23000条，测试数据中2500条)。
  - 数据提供方： 清华大学计算机系黄民烈副教授
 
 ## 项目结构
