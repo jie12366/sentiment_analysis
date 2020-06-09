@@ -1,3 +1,8 @@
+# 广告广告
+字节跳动广告系统下的穿山甲平台大量招人，有兴趣的直接发简历到我邮箱：xiongyijie.monkjay@bytedance.com。  
+也可以直接加我 QQ：2263509062
+![ddd](https://user-gold-cdn.xitu.io/2020/6/9/17296d23354015c8?w=1202&h=655&f=png&s=811332)
+
 # 基于LSTM的中文情绪识别
 
 > 基于keras深度学习库，搭建LSTM网络，来对数据集进行情绪识别，分成六类情绪。
